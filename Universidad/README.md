@@ -1,12 +1,12 @@
-![](https://upload.wikimedia.org/wikipedia/commons/4/42/Arduino_Uno_logo.png)
+![](http://www.maestrosdelweb.com/images/2012/10/python-logo-master-flat.png)
 
-> Repositorio creado para gestionar todos los archivos de arduino para el ambiente Academico, Profesional y creativo.
+> Repositorio creado para gestionar todos los archivos de PYTHON para el ambiente Academico, Profesional y creativo.
 
 
 **Index:**           
 + Universidad:
-    + ITM: Microcontroladores
+    + None
 + Profesional:
     + None
 + Creativo:
-    + None
+    + Tutorial: Platzi
